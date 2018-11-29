@@ -1,0 +1,15 @@
+POST /topic HTTP/1.1
+Host: localhost:3000
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0
+Accept: application/json
+Accept-Language: en-GB,en;q=0.5
+Accept-Encoding: gzip, deflate
+Content-Type: application/json; charset=utf-8
+Connection: close
+Upgrade-Insecure-Requests: 1
+DNT: 1
+Cache-Control: max-age=0
+Content-Length: 18
+
+
+{"message":"test"}
